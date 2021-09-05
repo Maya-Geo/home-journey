@@ -1,0 +1,59 @@
+.start{
+ background-color: white;
+
+}
+
+.navbar-fixed-top{
+	border-color: white;
+}
+
+.navbar-brand{
+	color: #fff;
+    font-weight: bold;
+}
+
+
+.head{
+	background-image:url("https://images.unsplash.com/photo-1566228965180-0b4e14f6fcb2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8d2hpdGUlMjBwbGFjZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+}
+
+
+.form-inner{
+ background-color: #fff;
+ margin-left: 21rem;	
+
+}
+
+.form-group {
+	
+	margin-top: 50px;
+    margin-bottom: 15px;
+    width: 56%;
+    margin-left: 140px;
+}
+
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-right: 600px;
+    font-weight: 700;
+}
+
+
+.btn-primary{
+    color: #fff;
+    margin-right: 600px;
+    margin-left:140px;
+}
+
+.message{
+	padding: 90px;
+	
+}
+
+.nam{
+	margin-right: 80px;
+
+}
+
